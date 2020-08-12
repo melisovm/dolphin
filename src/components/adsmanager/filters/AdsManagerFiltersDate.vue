@@ -74,3 +74,16 @@ export default {
   }
 };
 </script>
+
+<style lang="scss">
+.vue-daterange-picker {
+  .form-control {
+    padding: 0;
+    border: none;
+
+    .v-text-field--solo {
+      border-radius: 0;
+    }
+  }
+}
+</style>
