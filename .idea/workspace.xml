@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9f5fd41-b9a5-44a2-b83c-b753a3de0021" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dolphin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Alert.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ApiError.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HelloI18n.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/AdsManagerRefresh.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/AdsManagerRefreshLoading.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/AdsManagerTabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/AdsManagerTopbarCols.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsAssignTagsDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsDialogAcceptRules.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsDialogCreateBm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsDialogCreateFanPage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsDialogForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsDialogInitPersonalCab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsDialogNoFacebookIdInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsEditDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsFiltersBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMainTableActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMainTableFacebookProfile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMainTableInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMainTableStatus.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMainTableTags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMultipleAssignTagsDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMultipleDelete.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMultipleShareDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsMultipleTokensCheck.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsPermissionsSidebar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsShareDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsSingleAddDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/accounts/AccountsTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsDialogDuplicate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsDialogPause.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsDialogStart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsMainTableInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsMainTableStatus.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsPreview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/ads/AdsTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsDialogChangeBudget.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsDialogDuplicate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsDialogPause.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsDialogStart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsMainTableInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsMainTableStatus.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/adsets/AdsetsTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/bms/BmsMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/bms/BmsTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogApplyAutomationRule.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogApplyAutomationRulesGroup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogArchive.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogAttachCard.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogChangeCountry.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogCreatePixel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogNotificationsOff.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogNotificationsOn.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogPayment.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogRename.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogShare.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogTags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogUnarchive.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsDialogUpdateCabsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsFiltersBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsMainTableInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsMainTableStatus.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsMainTableTags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/cabs/CabsTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsDialogChangeBudget.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsDialogDuplicate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsDialogPause.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsDialogStart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsMainTableInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsMainTableStatus.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/campaigns/CampaignsTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/dates/DatesMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/dates/DatesTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/dialogs/AdsManagerColumnsDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/filters/AdsManagerFiltersDate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/filters/AdsManagerFiltersTags.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerAccountBmsCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerAccountFanPagesCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerAdIdCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerAdsetBudgetCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerAdsetIdCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerBillingCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerCabIdCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerCabLimitCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerCampaignBudgetCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerCampaignIdCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerComplexStatCellCpa.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerComplexStatCellCr.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerComplexStatCellQuantity.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/stat-cells/AdsManagerSimpleStatCell.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/users/UsersDialogAdd.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/users/UsersDialogEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/users/UsersDialogForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/users/UsersMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/users/UsersTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/adsmanager/users/UsersTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/fb-api-log/fbApiLog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyDialogAdd.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyDialogCheck.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyDialogDelete.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyDialogEdit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyDialogPermissions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyDialogShare.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyMainTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyTopbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/proxy/ProxyTopbarActions.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingsFacebookApi.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingsGeneral.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/settings/SettingsTabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sidebar/SidebarDarkMode.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sidebar/SidebarLanguageSwitcher.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/topbar/Topbar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/topbar/TopbarLocale.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/accounts/accounts-statuses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/accounts/status-colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/accounts/table-columns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/adsmanager/action_cols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/adsmanager/common_cols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/adsmanager/special_cols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/AndroidVersions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/CallToAction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/CleanBundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/Locales.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/Objectives.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/PixelEvents.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/Placements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/Positions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/bundles/iosVersions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/cabs/disable_reasons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/cabs/statuses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/cabs/statuses_for_select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/countries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/pages/categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/proxy/proxy_types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/tables/locale.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/users/roles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/i18n.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/ru.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/adsmanager/custom_sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/adsmanager/make_cols.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/adsmanager/select_items.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/api_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/api_error_root.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/clipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/vuex_dialogs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mixins/vuex_loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plugins/vuetify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-tsx.d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shims-vue.d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/accounts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/ads.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/adsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/adsmanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/bms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/bundles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/cabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/campaigns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/dates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/fb_api_log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/jobs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/proxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/settings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/tags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/modules/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Api.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Proxy.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Settings.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Accounts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Ads.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/AdsManager.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Adsets.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Bms.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Cabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Campaigns.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Dates.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/adsmanager/Users.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fz4gYVCHjc5ctHeAuYRrMIsUyz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9f5fd41-b9a5-44a2-b83c-b753a3de0021" name="Default Changelist" comment="" />
+      <created>1597207699328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597207699328</updated>
+      <workItem from="1597207700500" duration="3101000" />
+      <workItem from="1597212254945" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1597212194944">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1597212194944" />
+    <state width="1771" height="318" key="GridCell.Tab.0.center" timestamp="1597212194942">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1597212194942" />
+    <state width="1771" height="318" key="GridCell.Tab.0.left" timestamp="1597212194937">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1597212194937" />
+    <state width="1771" height="318" key="GridCell.Tab.0.right" timestamp="1597212194944">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1597212194943" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1597211663567">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1792.1120@0.0.1792.1120" timestamp="1597211663567" />
+    <state x="594" y="315" width="604" height="490" key="find.popup" timestamp="1597211428104">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="594" y="315" width="604" height="490" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1597211428104" />
+  </component>
+</project>
